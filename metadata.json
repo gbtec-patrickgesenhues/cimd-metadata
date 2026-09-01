@@ -15,5 +15,5 @@
         "code"
     ],
     "token_endpoint_auth_method": "none",
-    "scope": "mcp"
+    "scope": "mcp openid offline_access"
 }
