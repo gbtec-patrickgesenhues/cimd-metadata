@@ -14,6 +14,5 @@
     "response_types": [
         "code"
     ],
-    "token_endpoint_auth_method": "none",
-    "scope": "mcp openid offline_access"
+    "token_endpoint_auth_method": "none"
 }
